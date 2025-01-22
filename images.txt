@@ -1,1 +1,2 @@
-metrics-scraper:v1.0.7 
+kubernetesui/metrics-scraper:v1.0.7
+kubernetesui/dashboard:v2.4.0
